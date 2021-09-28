@@ -1,15 +1,15 @@
 {
-  "Lesson_1_What_Are_We_Building": "",
-  "Lesson_1_What_Is_A_NFT.md": "",
-  "Lesson_2_Get_Local_Env_Running.md": "",
-  "Lesson_3_Mint_A_NFT_Locally.md": "",
-  "Lesson_4_Create_A_Contract_That_Mints_NFTs.md": "",
-  "Lesson_1_What_Is_On_Chain_Data.md": "",
-  "Lesson_2_Minting_NFTs_With_Static_SVGs.md": "",
-  "Lesson_3_Dynamically_Generating_NFTs.md": "",
-  "Lesson_1_Setup_React_App_And_Wallet.md": "",
-  "Lesson_2_Connect_Wallet_To_Web_App.md": "",
-  "Lesson_3_Create_Button_To_Call_Contract.md": "",
-  "Lesson_1_Finishing_Touches_Web_App.md": "",
-  "Lesson_2_Ship_It.md": ""
+  "Lesson_1_What_Are_We_Building": "LE4d6a918a-38cb-469d-addd-ae91a579bef2",
+  "Lesson_1_What_Is_A_NFT.md": "LE8417564d-720e-4278-a48f-fe1e912fff56",
+  "Lesson_2_Get_Local_Env_Running.md": "LEb8af796c-3b5a-4b01-baa5-96ab138d5dcb",
+  "Lesson_3_Mint_A_NFT_Locally.md": "LEf59f8520-3196-4a28-9342-cfadb2790773",
+  "Lesson_4_Create_A_Contract_That_Mints_NFTs.md": "LE4c43a6ab-9192-45ad-b692-cf8ab0161403",
+  "Lesson_1_What_Is_On_Chain_Data.md": "LEae494e5b-681b-4a14-96c3-b93aed78210b",
+  "Lesson_2_Minting_NFTs_With_Static_SVGs.md": "LEe61b9b5a-4730-449e-a996-bd4f7abd6e44",
+  "Lesson_3_Dynamically_Generating_NFTs.md": "LE7122b526-c865-4fa2-8390-15ab284fb785",
+  "Lesson_1_Setup_React_App_And_Wallet.md": "LEe0ba038a-2d8b-4fa1-9923-6c6404dbdae1",
+  "Lesson_2_Connect_Wallet_To_Web_App.md": "LE97ccdcfd-62c9-4fcb-96fd-ea857807e3cc",
+  "Lesson_3_Create_Button_To_Call_Contract.md": "LE9cf27573-b67d-4171-9d8c-c3e9748f22ef",
+  "Lesson_1_Finishing_Touches_Web_App.md": "LE490e3cf7-8682-4929-be2d-3ade1a60803c",
+  "Lesson_2_Ship_It.md": "LE5cecace0-ebc5-493b-93dc-47553735b19c"
 }
