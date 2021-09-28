@@ -1,4 +1,4 @@
-📚 A little blockchain primer.
+📚 A little blockchain primer. -> Updating 3
 ---------------------------
 Before anything, we'll need to get our local Ethereum network working. This is how we can compile and test our smart contract code! You know how you need to spin up a local environment to work on? Same deal here!
 
