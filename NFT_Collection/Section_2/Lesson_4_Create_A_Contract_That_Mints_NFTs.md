@@ -1,4 +1,4 @@
-*Note: this lesson is a bit longer than the others!*
+*Note: this lesson is a bit longer than the others!* -> Updating 5
 
 Now that we got all our scripts good to go and the basics down, we're going to mint some NFTs! Here's what my updated `MyEpicNFT.sol` looks like:
 

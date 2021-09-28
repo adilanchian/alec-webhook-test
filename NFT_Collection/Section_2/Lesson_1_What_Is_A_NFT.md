@@ -1,4 +1,4 @@
-I see so many tutorials complicate this. So, I'll try to keep it pretty simple :).
+I see so many tutorials complicate this. So, I'll try to keep it pretty simple :). -> Updating 2
 
 An NFT is a "token" that a person can own that links to some piece of "data" (ex. a link to a piece of digital art, a video, an image, etc). The trick with NFTs is that each "token" has a unique identifier that lets the owner prove that it's one of a kind. We'll be seeing the code later :).
 
