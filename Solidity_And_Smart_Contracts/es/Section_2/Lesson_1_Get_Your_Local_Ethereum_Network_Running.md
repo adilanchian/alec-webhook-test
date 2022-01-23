@@ -1,4 +1,4 @@
-✅ Setup your env to start working w/ the blockchain
+✅ Setup your env to start working w/ the blockchain - ES DOC
 ---------------------------------------------------
 
 Before anything, we'll need to get our local Ethereum network working. This is how we can compile and test our smart contract code! You know how you need to spin up a local environment to work on it? Same deal here!

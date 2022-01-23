@@ -1,4 +1,4 @@
-👀 Writing a script to deploy locally
+👀 Writing a script to deploy locally - ES DOC
 -------------------------------------
 
 *"Wait, didn't I already deploy to my local network??"*

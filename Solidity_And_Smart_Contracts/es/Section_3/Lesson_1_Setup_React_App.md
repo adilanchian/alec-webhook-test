@@ -1,4 +1,4 @@
-💻 Set up a client
+💻 Set up a client - ES DOC
 ------------------
 
 It's time to start working on our website! Our contract is pretty simple, but, lets learn how our front end can interact with our contract ASAP!
