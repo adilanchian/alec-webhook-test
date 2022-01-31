@@ -1,4 +1,4 @@
-🌅 Using window.ethereum()
+🌅 Using window.ethereum() - ES DOC
 --------------------------
 
 So, in order for our website to talk to the blockchain, we need to somehow connect our wallet to it. Once we connect our wallet to our website, our website will have permissions to call smart contracts on our behalf. Remember, it's just like authenticating in to a website.

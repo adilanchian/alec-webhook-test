@@ -1,4 +1,4 @@
-📦 Storing messages in arrays using structs
+📦 Storing messages in arrays using structs - ES DOC
 -------------------------------------------
 
 So, we now have a full-fledged web app that can talk to the blockchain!

@@ -1,4 +1,4 @@
-💸 Send Ethereum to people waving at you
+💸 Send Ethereum to people waving at you - ES DOC
 ----------------------------------------
 
 Now what we want to do is send some Ethereum to people waving at us! For example, maybe you want to make it where there's a 1% chance someone can win $5 from waving at you. Or, maybe you want to make it where everyone who waves at you gets $0.01 in Etheruem for waving at you lol.

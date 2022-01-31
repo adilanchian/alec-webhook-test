@@ -1,4 +1,4 @@
-🎨 Finalize your UI, make it your own.
+🎨 Finalize your UI, make it your own. - ES DOC
 --------------------------------------
 
 You've got all the core functionality down! Now, it's time for you to really make this your own if you haven't already. Change up the CSS, the text, add some funny YouTube embeds, add your own bio, whatever. Make stuff look cool :).

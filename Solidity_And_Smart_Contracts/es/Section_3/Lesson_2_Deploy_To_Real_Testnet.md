@@ -1,4 +1,4 @@
-📤 Setting up to deploy to the blockchain
+📤 Setting up to deploy to the blockchain - ES DOC
 -----------------------------------------
 
 Go ahead and close the terminal with your local blockchain network running which is where you ran `npx hardhat node`. We won't need it anymore ;). I mainly just wanted to show you how deploying works locally.
@@ -58,12 +58,12 @@ In order get fake ether, we have to ask the network for some. **This fake ether 
 
 For MyCrpyto, you'll need to connect your wallet, make an account, and then click that same link again to request funds. For the official rinkeby faucet, if it lists 0 peers, it is not worth the time to make a tweet/public Facebook post.
 
-| Name | Link | Amount | Time |
-|------|------|--------|------|
-| MyCrypto | https://app.mycrypto.com/faucet | 0.01 | None |
-| Buildspace | https://buildspace-faucet.vercel.app/ | 0.025 | 1d |
-| Ethily | https://ethily.io/rinkeby-faucet/ | 0.2 | 1w |
-| Official Rinkeby | https://faucet.rinkeby.io/ | 3 / 7.5 / 18.75 | 8h / 1d / 3d |
+| Name             | Link                                  | Amount          | Time         |
+| ---------------- | ------------------------------------- | --------------- | ------------ |
+| MyCrypto         | https://app.mycrypto.com/faucet       | 0.01            | None         |
+| Buildspace       | https://buildspace-faucet.vercel.app/ | 0.025           | 1d           |
+| Ethily           | https://ethily.io/rinkeby-faucet/     | 0.2             | 1w           |
+| Official Rinkeby | https://faucet.rinkeby.io/            | 3 / 7.5 / 18.75 | 8h / 1d / 3d |
 
 
 🙃 Having trouble getting Testnet ETH?

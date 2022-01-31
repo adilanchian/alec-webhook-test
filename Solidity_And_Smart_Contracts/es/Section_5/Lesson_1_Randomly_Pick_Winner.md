@@ -1,4 +1,4 @@
-😈 Randomly pick winner
+😈 Randomly pick winner - ES DOC
 -----------------------
 
 So right now, our code is set to give the waver 0.0001 Ethereum every single time! Our contract will run out of money pretty fast, and then the fun is over and we'd need to add more funds to our contract. In this lesson, I'll walk you through how to:
